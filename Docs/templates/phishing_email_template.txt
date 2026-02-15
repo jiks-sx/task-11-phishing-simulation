@@ -1,0 +1,11 @@
+Subject: Account Security Alert
+
+Dear User,
+
+We detected unusual login activity in your account.
+Please verify your account immediately to avoid suspension:
+
+[Verification Link]
+
+Thank you,
+Security Team
